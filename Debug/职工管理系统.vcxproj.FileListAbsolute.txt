@@ -1,0 +1,2 @@
+D:\Install\Vs\Projects\职工管理系统\Debug\职工管理系统.exe
+D:\Person\vs_projects\职工管理系统\Debug\职工管理系统.exe
